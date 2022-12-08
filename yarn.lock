@@ -6040,12 +6040,12 @@ gatsby-plugin-google-analytics@^3.14.0:
     minimatch "3.0.4"
     web-vitals "^1.1.2"
 
-gatsby-plugin-layout@^2.11.0:
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-layout/-/gatsby-plugin-layout-2.12.0.tgz#8564e6b012287f0108fbfadf4e269a581a570a08"
-  integrity sha512-zBj7JTrAC6ro5GJPA2WxFEc+VMa6P62SnbKsj1fOUo8oVgNSV3I2oX9UMGv+S58nquW0NX/pNjIU8wR4IRwYmw==
+gatsby-plugin-layout@^2.15.0:
+  version "2.15.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-layout/-/gatsby-plugin-layout-2.15.0.tgz#6b307721d0902c8938696377923c7501c6a3dd8f"
+  integrity sha512-8j4zXwdTOZcUcQ3NtvixuBz6MKAZ+stm1wdeWrkOXj5bZhKjvbqb2/TuRAzx0VYzynz3XxZZQlAWhBtIIVGWKw==
   dependencies:
-    "@babel/runtime" "^7.14.8"
+    "@babel/runtime" "^7.15.4"
 
 gatsby-plugin-page-creator@^3.12.0:
   version "3.12.0"
